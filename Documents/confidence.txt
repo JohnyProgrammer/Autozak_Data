@@ -1,5 +1,2 @@
 Политика конфидециональности
 https://johnyprogrammer.github.io/PravovoyShchit_PrivacyPolicy/
-
-О всех неисправностях или ошибках, обнаруженных в приложении, пишите на почту:
-pravovoyshchit.info@gmail.com

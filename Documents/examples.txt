@@ -1,4 +1,11 @@
-Раздел .Новые доки
+Раздел .Тест
 
 
 https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/2doc.pdf|Пример_документа.pdf
+
+
+
+Раздел .Договор купли-продажи авто
+
+
+https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/4doc.pdf|Договор купли-продажи авто.pdf

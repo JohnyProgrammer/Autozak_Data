@@ -1,4 +1,4 @@
 Раздел .Новые доки
 
 
-https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/2doc.pdf
+https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/2doc.pdf|Пример_документа.pdf

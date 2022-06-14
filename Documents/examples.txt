@@ -8,4 +8,4 @@ https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/2doc.pdf|Пример
 Раздел .Договор купли-продажи авто
 
 
-https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/4doc.pdf|Договор купли-продажи авто.pdf
+https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/4doc.pdf|Договор_купли_продажи_авто.pdf

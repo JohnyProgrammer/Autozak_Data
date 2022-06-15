@@ -1,7 +1,7 @@
-Раздел .Тест
+Раздел .Договор найма жилого помещения
 
 
-https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/2doc.pdf|Пример_документа.pdf
+https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/2doc.pdf|Договор_найма_жилого_помещения.pdf
 
 
 

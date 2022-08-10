@@ -15,3 +15,21 @@ https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/4doc.pdf|Догово
 
 
 https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/5doc.pdf|Запрос_о_ходе_исполнительного_производства.pdf
+
+
+Раздел .Исковое заявление о взыскании алиментов
+
+
+https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/6doc.pdf|Исковое_заявление_о_взыскании_алиментов.pdf
+
+
+Раздел .Договор займа
+
+
+https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/7doc.pdf|Договор_займа.pdf
+
+
+Раздел .Расписка в получении денежных средств
+
+
+https://johnyprogrammer.github.io/Autozak_Data/ExampleTest/8doc.pdf|Расписка_в_получении_денежных_средств.pdf
